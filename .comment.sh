@@ -2,7 +2,7 @@
 #
 # ReadMe:
 #   This case is when you put this file to $HOME
-#   If you don't like alias to Octothorpe, you may change.
+#   If you don't like to alias to Octothorpe, you may change.
 #
 # Usage:
 #   alias \#='sh ~/.comment.sh'         # You can write with .bashrc or .zshrc
